@@ -16,7 +16,6 @@ ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
 
     ListNode* result = &dummy;
 
-    
 
     while(list1 && list2){
 
