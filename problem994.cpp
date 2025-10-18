@@ -61,9 +61,6 @@ int orangesRotting(vector<vector<int>>& grid) {
 
 int main(){
 
-    // vector<vector<int>> grid = {{2,1,1},{1,1,0},{0,1,1}};
-    // vector<vector<int>> grid = {{2,1,1},{0,1,1},{1,0,1}};
-    // vector<vector<int>> grid = {{2,1,1},{1,1,1},{1,0,2}};
     vector<vector<int>> grid = {{1,2}};
 
     cout<<"The minute time is: "<<orangesRotting(grid)<<endl;
