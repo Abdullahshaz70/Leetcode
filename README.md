@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Abdullahshaz70/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abdullahshaz70/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Abdullahshaz70/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
