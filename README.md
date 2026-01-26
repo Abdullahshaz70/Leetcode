@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdullahshaz70/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Abdullahshaz70/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdullahshaz70/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdullahshaz70/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Abdullahshaz70/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdullahshaz70/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
