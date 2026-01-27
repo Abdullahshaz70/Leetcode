@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abdullahshaz70/Leetcode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abdullahshaz70/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abdullahshaz70/Leetcode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Abdullahshaz70/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Abdullahshaz70/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Abdullahshaz70/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdullahshaz70/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Abdullahshaz70/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Abdullahshaz70/Leetcode/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
