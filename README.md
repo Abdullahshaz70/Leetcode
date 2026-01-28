@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Abdullahshaz70/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abdullahshaz70/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1550-three-consecutive-odds](https://github.com/Abdullahshaz70/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abdullahshaz70/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
