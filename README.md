@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abdullahshaz70/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abdullahshaz70/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abdullahshaz70/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abdullahshaz70/Leetcode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abdullahshaz70/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Abdullahshaz70/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abdullahshaz70/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdullahshaz70/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abdullahshaz70/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
