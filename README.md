@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Abdullahshaz70/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abdullahshaz70/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3637-trionic-array-i](https://github.com/Abdullahshaz70/Leetcode/tree/master/3637-trionic-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
