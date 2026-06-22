@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdullahshaz70/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abdullahshaz70/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0218-the-skyline-problem](https://github.com/Abdullahshaz70/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdullahshaz70/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Abdullahshaz70/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Abdullahshaz70/Leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abdullahshaz70/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Abdullahshaz70/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdullahshaz70/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Abdullahshaz70/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abdullahshaz70/Leetcode/tree/master/0645-set-mismatch) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Abdullahshaz70/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/Abdullahshaz70/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdullahshaz70/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Abdullahshaz70/Leetcode/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Abdullahshaz70/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdullahshaz70/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdullahshaz70/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abdullahshaz70/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Recursion
 |  |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Abdullahshaz70/Leetcode/tree/master/0218-the-skyline-problem) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abdullahshaz70/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
