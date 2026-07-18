@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abdullahshaz70/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdullahshaz70/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Abdullahshaz70/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abdullahshaz70/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abdullahshaz70/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdullahshaz70/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Abdullahshaz70/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abdullahshaz70/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdullahshaz70/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Abdullahshaz70/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abdullahshaz70/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Abdullahshaz70/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abdullahshaz70/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abdullahshaz70/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Abdullahshaz70/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abdullahshaz70/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdullahshaz70/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abdullahshaz70/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abdullahshaz70/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
