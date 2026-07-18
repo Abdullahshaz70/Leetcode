@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abdullahshaz70/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abdullahshaz70/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abdullahshaz70/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Abdullahshaz70/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abdullahshaz70/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Abdullahshaz70/Leetcode/tree/master/0383-ransom-note) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abdullahshaz70/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -200,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Abdullahshaz70/Leetcode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdullahshaz70/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
