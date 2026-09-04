@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abdullahshaz70/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abdullahshaz70/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Abdullahshaz70/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abdullahshaz70/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Abdullahshaz70/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abdullahshaz70/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdullahshaz70/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Abdullahshaz70/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abdullahshaz70/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Abdullahshaz70/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Abdullahshaz70/Leetcode/tree/master/0242-valid-anagram) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Abdullahshaz70/Leetcode/tree/master/0036-valid-sudoku) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abdullahshaz70/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Combinatorics
 |  |
