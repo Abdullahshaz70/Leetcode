@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abdullahshaz70/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Abdullahshaz70/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Abdullahshaz70/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Abdullahshaz70/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Abdullahshaz70/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abdullahshaz70/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-last-stone-weight](https://github.com/Abdullahshaz70/Leetcode/tree/master/1046-last-stone-weight) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abdullahshaz70/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdullahshaz70/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Abdullahshaz70/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abdullahshaz70/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Recursion
 |  |
