@@ -12,7 +12,7 @@
 class Solution {
 public:
    
-   bool helper(TreeNode* root, int min, int max) {
+   bool helper(TreeNode* root, long long min, long long max) {
 
     if (!root)
         return true;
@@ -30,7 +30,7 @@ public:
 
 bool isValidBST(TreeNode* root) {
 
-    return helper(root , INT_MIN , INT_MAX);
+    return helper(root , LLONG_MIN , LLONG_MAX);
 
 }
 
